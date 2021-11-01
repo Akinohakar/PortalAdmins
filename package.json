@@ -1,0 +1,22 @@
+{
+  "name": "portaladmin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akinohakar/PortalAdmins.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akinohakar/PortalAdmins/issues"
+  },
+  "homepage": "https://github.com/Akinohakar/PortalAdmins#readme",
+  "dependencies": {
+    "firebase": "^9.2.0"
+  }
+}
